@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firtinahg
 - 👀 I’m interested in --> Image Processing, Automated Systems, Embedded System Development.
-- 🌱 I’m currently learning --> GUI Design with QT
+- 🌱 I’m currently learning --> yocto development
 - 📫 How to reach me --> linkedin.com/fhgoktas
 
 <!---
